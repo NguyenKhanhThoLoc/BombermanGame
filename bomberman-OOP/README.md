@@ -67,3 +67,5 @@ Xem comment ở starter project
 5. Những ý tưởng khác sẽ được đánh giá và cộng điểm theo mức tương ứng
 
 alo alo
+
+blo blo
